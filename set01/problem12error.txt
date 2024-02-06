@@ -1,0 +1,20 @@
+PS C:\Users\ALEX\Desktop\PSC\c-activity-sets\c-activity-sets\set01> gcc problem12.c    
+PS C:\Users\ALEX\Desktop\PSC\c-activity-sets\c-activity-sets\set01> ./a.exe  
+Enter the number of values: 5
+Complex number 1:
+Enter the real part: 1
+Enter the imaginary part: 2
+Complex number 2:
+Enter the real part: 3
+Enter the imaginary part: 4
+Complex number 3:
+Enter the real part: 5
+Enter the imaginary part: 6
+Complex number 4:
+Enter the real part: 7
+Enter the imaginary part: 8
+Complex number 5:
+Enter the real part: 9
+Enter the imaginary part: 10
+Sum of 5 complex numbers:
+(1.00 + 2.00i) + (3.00 + 4.00i) + (5.00 + 6.00i) + (7.00 + 8.00i) + (9.00 + 10.00i) = (25.00 + 30.00i)

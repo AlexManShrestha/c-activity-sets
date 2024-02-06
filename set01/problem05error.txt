@@ -1,0 +1,6 @@
+PS C:\Users\ALEX\Desktop\PSC\c-activity-sets\c-activity-sets\set01> gcc problem05.c
+PS C:\Users\ALEX\Desktop\PSC\c-activity-sets\c-activity-sets\set01> ./a.exe        
+enter the values : 15
+enter the values : 15
+enter the values : 15
+the largest of 15 and 15 and 15 is 15

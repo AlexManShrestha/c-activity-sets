@@ -1,0 +1,5 @@
+PS C:\Users\ALEX\Desktop\PSC\c-activity-sets\c-activity-sets\set01> gcc problem02.c
+PS C:\Users\ALEX\Desktop\PSC\c-activity-sets\c-activity-sets\set01> ./a.exe
+Enter first number: 10
+Enter second number: 20
+Sum = 30

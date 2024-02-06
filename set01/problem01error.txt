@@ -1,0 +1,3 @@
+PS C:\Users\ALEX\Desktop\PSC\c-activity-sets\c-activity-sets\set01> gcc problem01.c
+PS C:\Users\ALEX\Desktop\PSC\c-activity-sets\c-activity-sets\set01> ./a.exe
+Alex Man Shrestha

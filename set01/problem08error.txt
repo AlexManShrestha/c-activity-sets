@@ -1,0 +1,21 @@
+PS C:\Users\ALEX\Desktop\PSC\c-activity-sets\c-activity-sets\set01> gcc problem08.c
+PS C:\Users\ALEX\Desktop\PSC\c-activity-sets\c-activity-sets\set01> ./a.exe  
+Enter the size of the array: 15
+Enter 15 numbers:
+Number 1: 1
+Number 2: 2
+Number 3:
+3
+Number 4: 4
+Number 5: 5
+Number 6: 6
+Number 7: 7
+Number 8: 8
+Number 9: 9
+Number 10: 10
+Number 11: 11
+Number 12: 12
+Number 13: 13
+Number 14: 14
+Number 15: 15
+Entered numbers: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 Sum of the entered numbers: 120
