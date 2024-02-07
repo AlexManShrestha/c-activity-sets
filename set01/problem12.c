@@ -1,3 +1,4 @@
+// Write a C program to find the sum of n complex numbers
 #include<stdio.h>
 
 struct _complex {
@@ -12,6 +13,9 @@ Complex add_n_complex(int n, Complex c[n]);
 void output(int n, Complex c[n], Complex result);
 
 int main()
+
+
+
 
 {
     int n = get_n();
