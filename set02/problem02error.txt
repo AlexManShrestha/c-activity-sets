@@ -2,5 +2,9 @@ PS C:\Users\ALEX\Desktop\PSC\c-activity-sets\c-activity-sets\set02> gcc problem0
 PS C:\Users\ALEX\Desktop\PSC\c-activity-sets\c-activity-sets\set02> ./a.exe  
 Enter a side of the triangle: 5
 Enter a side of the triangle: 4
+
+
+
+
 Enter a side of the triangle: 5
 The triangle with sides 5, 4, and 5 is not scalene.
