@@ -21,9 +21,6 @@ int input_number()
 }
 int is_composite(int n) 
 {
-
-
-    
     if (n < 4) {
         return 0;
     }
@@ -34,6 +31,10 @@ int is_composite(int n)
     }
     return 0; 
 }
+
+
+
+
 void output(int n, int result) 
 {
     if (result) {
