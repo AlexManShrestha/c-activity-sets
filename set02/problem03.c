@@ -31,10 +31,6 @@ int is_composite(int n)
     }
     return 0; 
 }
-
-
-
-
 void output(int n, int result) 
 {
     if (result) {
@@ -43,3 +39,6 @@ void output(int n, int result)
         printf("%d is not a composite number.\n", n);
     }
 }
+
+
+
