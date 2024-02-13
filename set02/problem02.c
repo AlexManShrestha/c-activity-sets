@@ -5,10 +5,6 @@ int input_side();
 int check_scalene(int a, int b, int c);
 void output(int a, int b, int c, int isscalene);
 
-
-
-
-
 int main()
  {
     int side1, side2, side3, isscalene;
@@ -27,6 +23,10 @@ int input_side()
     return side;
 }
 int check_scalene(int a, int b, int c) 
+
+
+
+
 {
     if (a != b && b != c && a != c) {
         return 1; 
