@@ -12,6 +12,10 @@ int main()
     output(num1, num2, gcd);
     return 0;
 }
+
+
+
+
 int input()
  {
     int num;
@@ -28,11 +32,7 @@ int find_gcd(int a, int b)
             b -= a;
         }
     }
-
-
-
-
-    return a;
+   return a;
 }
 void output(int a, int b, int gcd)
  { 
