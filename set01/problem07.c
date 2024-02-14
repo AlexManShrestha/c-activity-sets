@@ -5,6 +5,10 @@ int input_n();
 int sum_n_nos(int n);
 void output(int n, int sum);
 
+
+
+
+
 int main() {
     int n, sum;
     
@@ -14,10 +18,6 @@ int main() {
     
     return 0;
 }
-
-
-
-
 
 int input_n() {
     int n;
