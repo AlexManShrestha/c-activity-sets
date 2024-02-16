@@ -19,7 +19,6 @@ int input()
     return num;
 }
 int find_gcd(int a, int b) 
-
 {
     while (a != b) {
         if (a > b) {
