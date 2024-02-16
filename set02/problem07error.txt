@@ -1,0 +1,5 @@
+PS C:\Users\ALEX\Desktop\PSC\c-activity-sets\c-activity-sets\set02> gcc problem07.c
+PS C:\Users\ALEX\Desktop\PSC\c-activity-sets\c-activity-sets\set02> ./a.exe        
+Enter the base of the triangle: 2
+Enter the altitude of the triangle: 3
+The area of the triangle with base = 2.000000 and altitude = 3.000000 is 3.000000

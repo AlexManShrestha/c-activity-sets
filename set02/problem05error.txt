@@ -1,0 +1,5 @@
+PS C:\Users\ALEX\Desktop\PSC\c-activity-sets\c-activity-sets\set02> gcc problem05.c
+PS C:\Users\ALEX\Desktop\PSC\c-activity-sets\c-activity-sets\set02> ./a.exe  
+Enter a number: 12
+Enter a number: 16
+The GCD (HCF) of 12 and 16 is: 4
