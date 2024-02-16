@@ -6,7 +6,8 @@ void input_string(char *a);
 void str_reverse(char *str, char *rev_str);
 void output(char *a, char *reverse_a);
 
-int main() {
+int main() 
+{
     char input_str[100];
     char reversed_str[100];
 
@@ -27,7 +28,8 @@ void input_string(char *a) {
     scanf("%s", a);
 }
 
-void str_reverse(char *str, char *rev_str) {
+void str_reverse(char *str, char *rev_str)
+ {
     int length = strlen(str);
     int i, j;
 
@@ -41,6 +43,7 @@ void str_reverse(char *str, char *rev_str) {
 }
 
 
-void output(char *a, char *reverse_a) {
+void output(char *a, char *reverse_a) 
+{
     printf("The reversed string of %s is: %s\n", a, reverse_a);
 }

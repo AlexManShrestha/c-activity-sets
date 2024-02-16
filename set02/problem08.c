@@ -1,8 +1,10 @@
 #include <stdio.h>
 
-typedef struct _triangle {
+typedef struct _triangle
+ {
     float base, altitude, area;
-} Triangle;
+}
+ Triangle;
 
 
 int input_n();
@@ -13,7 +15,8 @@ void find_n_areas(int n, Triangle t[n]);
 Triangle find_smallest_triangle(int n, Triangle t[n]);
 void output(int n, Triangle t[n], Triangle smallest);
 
-int main() {
+int main()
+ {
     int n;
 
     n = input_n();

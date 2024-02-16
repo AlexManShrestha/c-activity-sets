@@ -5,7 +5,8 @@ int input();
 int find_gcd(int a, int b);
 void output(int a, int b, int gcd);
 
-int main() {
+int main() 
+{
    
     int num1 = input();
     int num2 = input();
@@ -19,7 +20,8 @@ int main() {
 }
 
 
-int input() {
+int input()
+ {
     int num;
     printf("Enter a number: ");
     scanf("%d", &num);
@@ -27,7 +29,8 @@ int input() {
 }
 
 
-int find_gcd(int a, int b) {
+int find_gcd(int a, int b) 
+{
     while (a != b) {
         if (a > b) {
             a -= b;
@@ -39,6 +42,7 @@ int find_gcd(int a, int b) {
 }
 
 
-void output(int a, int b, int gcd) {
+void output(int a, int b, int gcd)
+ {
     printf("The GCD (HCF) of %d and %d is: %d\n", a, b, gcd);
 }
