@@ -6,6 +6,8 @@ Triangle input_triangle();
 void find_area(Triangle *t);
 void output(Triangle t);
 
+
+
 int main() {
     Triangle triangle = input_triangle();
     find_area(&triangle);
