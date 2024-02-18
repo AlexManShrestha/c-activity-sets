@@ -14,6 +14,7 @@ void output(int n, Triangle t[n], Triangle smallest);
 
 int main()
  {
+    
     int n;
     n = input_n();
     Triangle triangles[n];
