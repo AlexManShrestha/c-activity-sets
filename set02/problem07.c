@@ -5,9 +5,6 @@ typedef struct _triangle {
 Triangle input_triangle();
 void find_area(Triangle *t);
 void output(Triangle t);
-
-
-
 int main() {
     Triangle triangle = input_triangle();
     find_area(&triangle);
@@ -27,6 +24,7 @@ void find_area(Triangle *t)
  {
     t->area = 0.5 * t->base * t->altitude;
 }
+
 void output(Triangle t)
  {
     printf("The area of the triangle with base = %.6f and altitude = %.6f is %.6f\n",
