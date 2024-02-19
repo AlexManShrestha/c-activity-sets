@@ -3,9 +3,6 @@
 void input_string(char *a);
 void str_reverse(char *str, char *rev_str);
 void output(char *a, char *reverse_a);
-
-
-
 int main() 
 {
     char input_str[100];
@@ -29,6 +26,8 @@ void str_reverse(char *str, char *rev_str)
     rev_str[j] = '\0';
 }
 void output(char *a, char *reverse_a) 
+
+
 {
  
     printf("The reversed string of %s is: %s\n", a, reverse_a);
