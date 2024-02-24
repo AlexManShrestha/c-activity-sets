@@ -17,6 +17,7 @@ int input_number()
 
 
 
+
     int num;
     printf("Enter a number: ");
     scanf("%d", &num);
@@ -24,12 +25,12 @@ int input_number()
 }
 int is_composite(int n) 
 {
+
+
+
     if (n < 4) {
         return 0;
     }
-
-
-
     for (int i = 2; i <= n / 2; ++i) {
         if (n % i == 0) {
             return 1; 
@@ -37,11 +38,6 @@ int is_composite(int n)
     }
     return 0; 
 }
-
-
-
-
-
 void output(int n, int result) 
 {
     if (result) {
@@ -49,4 +45,7 @@ void output(int n, int result)
     } else {
         printf("%d is not a composite number.\n", n);
     }
+
+
+    
 }
