@@ -31,8 +31,6 @@ void input_array(int n, int a[n])
 }
 int sum_composite_numbers(int n, int a[n]) 
 {
-
-    
     int sum = 0;
 
     for (int i = 0; i < n; ++i) {
@@ -47,14 +45,9 @@ int sum_composite_numbers(int n, int a[n])
             }
         }
     }
-
-
-
     return sum;
 }
 void output(int sum)
  {
     printf("Sum of composite numbers in the array is: %d\n", sum);
 }
-
-
