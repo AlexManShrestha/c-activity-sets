@@ -19,9 +19,6 @@ int input_number()
     scanf("%d", &num);
     return num;
 }
-
-
-
 int is_composite(int n) 
 {
     if (n < 4) {
