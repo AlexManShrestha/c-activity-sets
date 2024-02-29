@@ -12,10 +12,6 @@ int main()
     output(num1, num2, gcd);
     return 0;
 }
-
-
-
-
 int input()
  {
     int num;
@@ -23,6 +19,11 @@ int input()
     scanf("%d", &num);
     return num;
 }
+
+
+
+
+
 int find_gcd(int a, int b) 
 {
     while (a != b) {
