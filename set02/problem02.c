@@ -15,9 +15,6 @@ int main()
     output(side1, side2, side3, isscalene);
     return 0;
 }   
-
-
-
 int input_side() 
 {
     int side;
@@ -25,9 +22,6 @@ int input_side()
     scanf("%d", &side);
     return side;
 }
-
-
-
 int check_scalene(int a, int b, int c) 
 {
    if (a != b && b != c && a != c) {
@@ -36,9 +30,6 @@ int check_scalene(int a, int b, int c)
         return 0; 
     }
 }
-
-
-
 void output(int a, int b, int c, int isscalene) 
 {
      if (isscalene) {
