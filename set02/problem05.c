@@ -14,10 +14,6 @@ int main()
 }
 int input()
  {
-
-
-
-    
     int num;
     printf("Enter a number: ");
     scanf("%d", &num);
@@ -34,6 +30,9 @@ int find_gcd(int a, int b)
     }
    return a;
 }
+
+
+
 void output(int a, int b, int gcd)
  { 
     printf("The GCD (HCF) of %d and %d is: %d\n", a, b, gcd);
