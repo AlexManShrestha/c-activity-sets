@@ -1,0 +1,5 @@
+PS C:\Users\ALEX\Desktop\PSC\c-activity-sets\c-activity-sets\set02> gcc problem06.c
+PS C:\Users\ALEX\Desktop\PSC\c-activity-sets\c-activity-sets\set02> ./a.exe        
+Enter the string: 72
+The string before reversing = 72
+The string after reversing is = 27
