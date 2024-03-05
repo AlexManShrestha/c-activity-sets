@@ -14,9 +14,6 @@ int main()
     output(sum);
     return 0;
 }
-
-
-
 int input_array_size()
  {
     int size;
@@ -24,9 +21,6 @@ int input_array_size()
     scanf("%d", &size);
     return size;
 }
-
-
-
 void input_array(int n, int a[n]) 
 {
     printf("Enter the array elements: ");
