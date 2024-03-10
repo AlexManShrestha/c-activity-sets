@@ -1,0 +1,7 @@
+PS C:\Users\ALEX\Desktop\PSC\c-activity-sets\c-activity-sets\set03> gcc problem01.c
+PS C:\Users\ALEX\Desktop\PSC\c-activity-sets\c-activity-sets\set03> ./a.exe        
+Enter the coordinates of point 1 (x y): 1
+1
+Enter the coordinates of point 2 (x y): 2
+2
+Distance between (1.00, 1.00) and (2.00, 2.00) is: 1.41
