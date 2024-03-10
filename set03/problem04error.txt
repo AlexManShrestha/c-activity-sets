@@ -1,0 +1,4 @@
+PS C:\Users\ALEX\Desktop\PSC\c-activity-sets\c-activity-sets\set03> gcc problem04.c    
+PS C:\Users\ALEX\Desktop\PSC\c-activity-sets\c-activity-sets\set03> ./a.exe        
+Enter the value of n: 5
+The 5th number in the Fibonacci sequence is: 5
