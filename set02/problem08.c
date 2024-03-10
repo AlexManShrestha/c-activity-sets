@@ -80,5 +80,5 @@ void output(Triangle smallest)
     printf("Triangle with the smallest area is:\n");
     printf("Base: %.2f\n", smallest.base);
     printf("Altitude: %.2f\n", smallest.altitude);
-    printf("Area: %.2f\n", smallest.area);
+    printf("Area: %.2f\n", smallest.altitude);
 }

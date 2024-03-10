@@ -1,0 +1,5 @@
+PS C:\Users\ALEX\Desktop\PSC\c-activity-sets\c-activity-sets\set02> gcc problem07.c
+PS C:\Users\ALEX\Desktop\PSC\c-activity-sets\c-activity-sets\set02> ./a.exe        
+Enter the base of the triangle: 10
+Enter the Height of the triangle: 15
+The area of the triangle with base 10.000000 and height 15.000000 is 75.000000sq units
